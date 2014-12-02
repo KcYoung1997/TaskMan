@@ -1,0 +1,26 @@
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.exe.config
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.exe
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.pdb
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.xml
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.TaskMan.resources
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.Resources.resources
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.vbproj.GenerateResource.Cache
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.exe
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.xml
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.About.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Interop.Shell32.dll
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.vbproj.ResolveComReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Debug\Task Manager.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\Interop.Shell32.dll
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\TaskMan.vbproj.ResolveComReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\Task Manager.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\Task Manager.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\Task Manager.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Debug\Task Manager.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Debug\Task Manager.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Debug\Task Manager.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\TaskMan.About.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\TaskMan.TaskMan.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\TaskMan.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Debug\TaskMan.vbproj.GenerateResource.Cache

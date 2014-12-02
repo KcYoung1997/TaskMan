@@ -1,0 +1,19 @@
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Release\Task Manager.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\Interop.Shell32.dll
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\TaskMan.vbproj.ResolveComReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Release\Task Manager.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Release\Task Manager.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\bin\Release\Task Manager.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\TaskMan.About.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\TaskMan.TaskMan.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\TaskMan.Resources.resources
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\TaskMan.vbproj.GenerateResource.Cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\Task Manager.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\Task Manager.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\WindowsApplication2\obj\Release\Task Manager.pdb
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\bin\Release\Task Manager.exe.config
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\obj\Release\Interop.Shell32.dll
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\obj\Release\TaskMan.vbproj.ResolveComReference.cache
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\obj\Release\Task Manager.exe
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\obj\Release\Task Manager.xml
+C:\Users\Keiran\Documents\Visual Studio 2012\Projects\TaskMan\src\WindowsApplication2\obj\Release\Task Manager.pdb

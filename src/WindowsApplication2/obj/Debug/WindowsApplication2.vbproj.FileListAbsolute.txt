@@ -1,0 +1,10 @@
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.exe.config
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.TaskMan.resources
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\TaskMan.Resources.resources
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.exe
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.pdb
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\Task Manager.xml
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.exe
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.xml
+c:\users\keiran\documents\visual studio 2012\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Task Manager.pdb
